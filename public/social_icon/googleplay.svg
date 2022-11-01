@@ -1,0 +1,32 @@
+<svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="paint0_linear_1227_1800" x1="2.0332" y1="8.66543" x2="22.1762" y2="8.66543" gradientUnits="userSpaceOnUse">
+<stop stop-color="#63BE6B"/>
+<stop offset="0.506" stop-color="#5BBC6A"/>
+<stop offset="1" stop-color="#4AB96A"/>
+</linearGradient>
+<linearGradient id="paint1_linear_1227_1800" x1="2.04465" y1="17.2296" x2="15.877" y2="17.2296" gradientUnits="userSpaceOnUse">
+<stop stop-color="#3EC6F2"/>
+<stop offset="1" stop-color="#45AFE3"/>
+</linearGradient>
+<linearGradient id="paint2_linear_1227_1800" x1="15.877" y1="17.698" x2="33.4293" y2="17.698" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FAA51A"/>
+<stop offset="0.387" stop-color="#FAB716"/>
+<stop offset="0.741" stop-color="#FAC412"/>
+<stop offset="1" stop-color="#FAC80F"/>
+</linearGradient>
+<linearGradient id="paint3_linear_1227_1800" x1="2.16696" y1="26.6293" x2="22.9875" y2="26.6293" gradientUnits="userSpaceOnUse">
+<stop stop-color="#EC3B50"/>
+<stop offset="1" stop-color="#E7515B"/>
+</linearGradient>
+<clipPath id="clip0_1227_1800">
+<rect width="31.464" height="36" fill="white" transform="translate(2)"/>
+</clipPath>
+</defs>
+<g clip-path="url(#clip0_1227_1800)">
+<path d="M22.1726 10.99L3.18755 0.139185C2.94898 0.000664711 2.64885 0.0083603 2.41798 0.146881C2.17942 0.285401 2.0332 0.53166 2.0332 0.808701C2.0332 0.808701 2.0409 1.80913 2.04859 3.45598L15.8776 17.2849L22.1726 10.99Z" fill="url(#paint0_linear_1227_1800)"/>
+<path d="M2.04834 3.45508C2.07143 9.39606 2.14069 23.8176 2.17147 30.9975L15.885 17.284L2.04834 3.45508Z" fill="url(#paint1_linear_1227_1800)"/>
+<path d="M33.0386 17.2006L22.1724 10.9902L15.8696 17.2852L22.9804 24.396L33.0463 18.5319C33.2849 18.3934 33.4311 18.1394 33.4311 17.8701C33.4311 17.5931 33.2772 17.3391 33.0386 17.2006Z" fill="url(#paint2_linear_1227_1800)"/>
+<path d="M2.16357 30.9987C2.17897 33.5614 2.18666 35.2005 2.18666 35.2005C2.18666 35.4775 2.33288 35.7315 2.57144 35.8623C2.81 36.0008 3.10243 36.0008 3.341 35.8623L22.9878 24.4037L15.8771 17.293L2.16357 30.9987Z" fill="url(#paint3_linear_1227_1800)"/>
+</g>
+</svg>

@@ -1,0 +1,57 @@
+@import "./custom";
+@import "./font";
+.card-section {
+  .card {
+    background: $secondary-color;
+    border: 1px solid $primary-color;
+    position: relative;
+    text-align: center;
+    border-radius: 8px;
+    height: 66px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 1.5rem;
+    .card_icon-banner {
+      background: $white-color;
+      width: 45px;
+      height: 45px;
+      display: flex;
+      position: absolute;
+      border-radius: 8px;
+      top: 50%;
+      transform: translateY(-50%);
+      left: 1rem;
+      img {
+        margin: auto;
+        width: 30px;
+      }
+    }
+    .card_icon {
+      position: absolute;
+      border-radius: 8px;
+      top: 50%;
+      transform: translateY(-50%);
+      left: 1rem;
+
+      img {
+        width: 40px;
+        border-radius: 6px;
+      }
+    }
+    .bg-bannner {
+      background: $white-color;
+      width: 40px;
+      height: 40px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      .pdf {
+        transform: scale(0.6);
+      }
+      img {
+        transform: scale(0.7);
+      }
+    }
+  }
+}
